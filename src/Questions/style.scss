@@ -1,0 +1,18 @@
+.question {
+  line-height: 150%;
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+
+  &__title {
+    font-weight: bold;
+  }
+
+  &__text {
+    color: #999;
+  }
+}
+
+.answers-list {
+  margin-top: 1rem;
+}
